@@ -11,13 +11,13 @@ ___
 
 ### CERTIFICATES:
 
-[UDEMY - PYTHON 3](https://www.udemy.com/certificate/UC-5d544e83-3130-42df-9857-1eb0be7f2ded/)
+>[UDEMY - PYTHON 3](https://www.udemy.com/certificate/UC-5d544e83-3130-42df-9857-1eb0be7f2ded/)<br/>
 [COURSE](https://www.udemy.com/course/bestpython/)
 
-[UDEMY - SQL and POSTGRESQL](https://www.udemy.com/certificate/UC-3fe34770-dab3-4771-ad1d-cb7b75b31871/)
+>[UDEMY - SQL and POSTGRESQL](https://www.udemy.com/certificate/UC-3fe34770-dab3-4771-ad1d-cb7b75b31871/)<br/>
 [COURSE](https://www.udemy.com/course/bestpostgres/)
 
-[UDEMY - GIT](https://www.udemy.com/certificate/UC-aa5f9c4d-6dc1-484f-8371-c42fe82c1ace/)
+>[UDEMY - GIT](https://www.udemy.com/certificate/UC-aa5f9c4d-6dc1-484f-8371-c42fe82c1ace/)<br/>
 [COURSE](https://www.udemy.com/course/git-alishev/)
 ___
 
