@@ -6,7 +6,7 @@ ___
 
 ### MY SKILLS: 
 
-![PYTHON 3](icons/python.svg) ![POSTGTRESQL](icons/Postgresql.svg) ![TELEGRAM API](icons/TelegramAPI.svg) ![SASS](icons/SASS.svg)
+![PYTHON 3](icons/Python.svg) ![POSTGTRESQL](icons/Postgresql.svg) ![TELEGRAM API](icons/TelegramAPI.svg) ![SASS](icons/SASS.svg)
 
 ![BOOTSTRAP](icons/BOOTSTRAP.svg) ![JAVASCRIPT](icons/JavaScript.svg) ![HTML](icons/HTML5.svg) ![CSS](icons/CSS3.svg) ![GIT](icons/GIT.svg)
 ___
