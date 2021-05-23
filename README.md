@@ -1,16 +1,38 @@
-### Hi there 👋
+# RADIK ABUBJAZOV
+___
 
-<!--
-**Abubjazov/abubjazov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Python Developer
+___
 
-Here are some ideas to get you started:
+### MY SKILLS: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![PYTHON 3](icons/python.svg) ![POSTGTRESQL](icons/Postgresql.svg) ![TELEGRAM API](icons/TelegramAPI.svg) ![SASS](icons/SASS.svg)
+
+![BOOTSTRAP](icons/BOOTSTRAP.svg) ![JAVASCRIPT](icons/JavaScript.svg) ![HTML](icons/HTML5.svg) ![CSS](icons/CSS3.svg) ![GIT](icons/GIT.svg)
+___
+
+### CERTIFICATES:
+
+[UDEMY - PYTHON 3](https://www.udemy.com/certificate/UC-5d544e83-3130-42df-9857-1eb0be7f2ded/)
+[COURSE](https://www.udemy.com/course/bestpython/)
+
+[UDEMY - SQL and POSTGRESQL](https://www.udemy.com/certificate/UC-3fe34770-dab3-4771-ad1d-cb7b75b31871/)
+[COURSE](https://www.udemy.com/course/bestpostgres/)
+
+[UDEMY - GIT](https://www.udemy.com/certificate/UC-aa5f9c4d-6dc1-484f-8371-c42fe82c1ace/)
+[COURSE](https://www.udemy.com/course/git-alishev/)
+___
+
+### CODE SAMPLES:
+
+__CRYPTO BOT (TELEGRAM)__
+
+DEMO:[https://t.me/@MiniCryBot](https://t.me/@MiniCryBot)
+
+SOURCE CODE: [https://github.com/Abubjazov/CryptoBot](https://github.com/Abubjazov/CryptoBot)
+
+___
+
+### CONTACTS:
+
+EMAIL: ABUBJAZOV@MAIL.RU
