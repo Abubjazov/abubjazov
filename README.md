@@ -1,8 +1,6 @@
 # RADIK ABUBJAZOV
-___
 
 ## Junior Python Developer
-___
 
 ### MY SKILLS: 
 
