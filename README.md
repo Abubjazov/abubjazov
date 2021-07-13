@@ -19,6 +19,12 @@ ___
 
 >[UDEMY - GIT](https://www.udemy.com/certificate/UC-aa5f9c4d-6dc1-484f-8371-c42fe82c1ace/)<br/>
 [COURSE](https://www.udemy.com/course/git-alishev/)
+
+>[UDEMY - HTML5 & CSS3](https://www.udemy.com/certificate/UC-38b56ec8-76d7-405f-bed0-a0cfb2029076/)<br/>
+[COURSE](https://www.udemy.com/course/webdeveloper/)
+
+
+
 ___
 
 ### CODE SAMPLES:
