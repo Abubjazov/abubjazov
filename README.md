@@ -5,7 +5,9 @@
 ### MY SKILLS: 
 
 ![GIT](icons/GIT.svg) ![GULP](icons/Gulp.svg) ![FIGMA](icons/Figma.svg) ![TELEGRAM API](icons/TelegramAPI.svg)
+
 ![PYTHON 3](icons/Python.svg) ![POSTGTRESQL](icons/Postgresql.svg)  ![BOOTSTRAP](icons/BOOTSTRAP.svg)
+
 ![HTML](icons/HTML5.svg) ![CSS](icons/CSS3.svg) ![SASS](icons/SASS.svg) ![JAVASCRIPT](icons/JavaScript.svg) 
 ___
 
