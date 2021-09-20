@@ -1,6 +1,6 @@
 # RADIK ABUBJAZOV
 
-## Junior Python Developer
+## Junior Frontend Developer
 
 ### MY SKILLS: 
 
