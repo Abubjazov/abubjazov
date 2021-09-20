@@ -6,7 +6,9 @@
 
 ![PYTHON 3](icons/Python.svg) ![POSTGTRESQL](icons/Postgresql.svg)  
 
-![HTML](icons/HTML5.svg) ![CSS](icons/CSS3.svg) ![SASS](icons/SASS.svg) ![LESS](icons/Less.svg) ![JAVASCRIPT](icons/JavaScript.svg) 
+![HTML](icons/HTML5.svg) ![CSS](icons/CSS3.svg) ![SASS](icons/SASS.svg) ![LESS](icons/Less.svg) 
+
+![JAVASCRIPT](icons/JavaScript.svg) ![NODEJS](icons/Node.svg) 
 
 ![REACT](icons/React.svg) ![BOOTSTRAP](icons/BOOTSTRAP.svg) 
 
