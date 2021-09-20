@@ -4,9 +4,15 @@
 
 ### MY SKILLS: 
 
-![PYTHON 3](icons/Python.svg) ![POSTGTRESQL](icons/Postgresql.svg) ![TELEGRAM API](icons/TelegramAPI.svg) ![SASS](icons/SASS.svg) ![FIGMA](icons/Figma.svg)
+![PYTHON 3](icons/Python.svg) ![POSTGTRESQL](icons/Postgresql.svg)  
 
-![BOOTSTRAP](icons/BOOTSTRAP.svg) ![JAVASCRIPT](icons/JavaScript.svg) ![HTML](icons/HTML5.svg) ![CSS](icons/CSS3.svg) ![GIT](icons/GIT.svg) ![GULP](icons/Gulp.svg)
+![HTML](icons/HTML5.svg) ![CSS](icons/CSS3.svg) ![SASS](icons/SASS.svg) ![LESS](icons/Less.svg) ![JAVASCRIPT](icons/JavaScript.svg) 
+
+![REACT](icons/React.svg) ![BOOTSTRAP](icons/BOOTSTRAP.svg) 
+
+![GIT](icons/GIT.svg) ![WEBPACK](icons/Webpack.svg) ![GULP](icons/Gulp.svg) 
+
+![TELEGRAM API](icons/TelegramAPI.svg) ![FIGMA](icons/Figma.svg)
 ___
 
 ### CERTIFICATES:
