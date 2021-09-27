@@ -8,13 +8,11 @@
 
 ![HTML](icons/HTML5.svg) ![CSS](icons/CSS3.svg) ![SASS](icons/SASS.svg) ![LESS](icons/Less.svg) 
 
-![JAVASCRIPT](icons/JavaScript.svg) ![NODEJS](icons/Node.svg) 
-
-![REACT](icons/React.svg) ![BOOTSTRAP](icons/BOOTSTRAP.svg) 
+![JAVASCRIPT](icons/JavaScript.svg) ![REACT](icons/React.svg)  ![NODEJS](icons/Node.svg) 
 
 ![GIT](icons/GIT.svg) ![WEBPACK](icons/Webpack.svg) ![GULP](icons/Gulp.svg) 
 
-![TELEGRAM API](icons/TelegramAPI.svg) ![FIGMA](icons/Figma.svg)
+![TELEGRAM API](icons/TelegramAPI.svg) ![BOOTSTRAP](icons/BOOTSTRAP.svg) ![FIGMA](icons/Figma.svg)
 ___
 
 ### CERTIFICATES:
