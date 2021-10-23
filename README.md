@@ -8,7 +8,7 @@
 
 ![HTML](icons/HTML5.svg) ![CSS](icons/CSS3.svg) ![SASS](icons/SASS.svg) ![LESS](icons/Less.svg) 
 
-![JAVASCRIPT](icons/JavaScript.svg) ![REACT](icons/React.svg)  ![NODEJS](icons/Node.svg) 
+![JAVASCRIPT](icons/JavaScript.svg) ![REACT](icons/React.svg) ![REDUX](icons/REDUX.svg) ![NODEJS](icons/Node.svg) 
 
 ![GIT](icons/GIT.svg) ![WEBPACK](icons/Webpack.svg) ![GULP](icons/Gulp.svg) 
 
@@ -30,16 +30,6 @@ ___
 >[UDEMY: JavaScript ES6](https://www.udemy.com/certificate/UC-0612fb88-13f2-484c-92d5-007facf04595/)<br/>
 
 >[UDEMY: React JS](https://www.udemy.com/certificate/UC-4e5d6ac3-d3f2-45af-9330-0c2415fccd7c/)<br/>
-
-___
-
-### CODE SAMPLES:
-
-__CRYPTO BOT (TELEGRAM)__
-
-DEMO:[https://t.me/@MiniCryBot](https://t.me/@MiniCryBot)
-
-SOURCE CODE: [https://github.com/Abubjazov/CryptoBot](https://github.com/Abubjazov/CryptoBot)
 
 ___
 
