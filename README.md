@@ -1,4 +1,4 @@
-# RADIK ABUBJAZOV
+![RADIK ABUBJAZOV](icons/RADIK.png)
 
 ## Junior Frontend Developer
 
