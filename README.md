@@ -1,21 +1,16 @@
-![RADIK ABUBJAZOV](icons/RADIK.png)
+<img src="icons/RADIK.png" alt="banner">
 
 ## Junior Frontend Developer
 
-### MY SKILLS:
+### MAIN STACK:
+<img src="icons/JavaScript.svg" alt="js"> <img src="icons/React.svg" alt="react"> <img src="icons/REDUX.svg" alt="redux"> <img src="icons/Node.svg" alt="node">
+<img src="icons/HTML5.svg" alt="html"> <img src="icons/CSS3.svg" alt="css"> <img src="icons/Postgresql.svg" alt="postgresql"> <img src="icons/GIT.svg" alt="git"> <img src="icons/Webpack.svg" alt="webpack">
 
-![PYTHON 3](icons/Python.svg) ![POSTGTRESQL](icons/Postgresql.svg)  
+### OTHER SKILLS:
 
-![HTML](icons/HTML5.svg) ![CSS](icons/CSS3.svg) ![SASS](icons/SASS.svg) ![LESS](icons/Less.svg) 
+<img src="icons/Python.svg" alt="python"> <img src="icons/Gulp.svg" alt="gulp"> <img src="icons/SASS.svg" alt="sass"> <img src="icons/Less.svg" alt="less"> <img src="icons/BOOTSTRAP.svg" alt="bootstrap"> <img src="icons/Figma.svg" alt="figma">
 
-![JAVASCRIPT](icons/JavaScript.svg) ![REACT](icons/React.svg) ![REDUX](icons/REDUX.svg) ![NODEJS](icons/Node.svg) 
-
-![GIT](icons/GIT.svg) ![WEBPACK](icons/Webpack.svg) ![GULP](icons/Gulp.svg) 
-
-![TELEGRAM API](icons/TelegramAPI.svg) ![BOOTSTRAP](icons/BOOTSTRAP.svg) ![FIGMA](icons/Figma.svg)
-___
-
-![CODEWARS](https://www.codewars.com/users/Abubjazov/badges/large)
+<a href="https://www.codewars.com/users/Abubjazov"><img src="https://www.codewars.com/users/Abubjazov/badges/large" alt="codewars"></a>
 ___
 
 ### CERTIFICATES:
@@ -38,6 +33,6 @@ ___
 
 ### CONTACTS:
 
-EMAIL: ABUBJAZOV@MAIL.RU
+EMAIL: abubjazov@mail.ru
 ___
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abubjazov&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
