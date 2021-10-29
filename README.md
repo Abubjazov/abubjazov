@@ -1,8 +1,9 @@
 ![RADIK ABUBJAZOV](icons/RADIK.png)
 
 ## Junior Frontend Developer
+___
 
-### MY SKILLS: 
+### MY SKILLS:
 
 ![PYTHON 3](icons/Python.svg) ![POSTGTRESQL](icons/Postgresql.svg)  
 
@@ -13,6 +14,9 @@
 ![GIT](icons/GIT.svg) ![WEBPACK](icons/Webpack.svg) ![GULP](icons/Gulp.svg) 
 
 ![TELEGRAM API](icons/TelegramAPI.svg) ![BOOTSTRAP](icons/BOOTSTRAP.svg) ![FIGMA](icons/Figma.svg)
+___
+
+![CODEWARS](https://www.codewars.com/users/Abubjazov/badges/large)
 ___
 
 ### CERTIFICATES:
