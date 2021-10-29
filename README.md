@@ -1,7 +1,6 @@
 ![RADIK ABUBJAZOV](icons/RADIK.png)
 
 ## Junior Frontend Developer
-___
 
 ### MY SKILLS:
 
