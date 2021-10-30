@@ -1,6 +1,6 @@
 <img src="icons/RADIK.png" alt="banner">
 
-## Junior Frontend Developer
+## Frontend Developer (JS, React)
 
 ### MAIN STACK:
 
