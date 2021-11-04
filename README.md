@@ -4,7 +4,7 @@
 
 ### MAIN STACK:
 
-<img src="icons/JavaScript.svg" alt="js"> <img src="icons/React.svg" alt="react"> <img src="icons/REDUX.svg" alt="redux"> <img src="icons/Node.svg" alt="node">
+<img src="icons/JavaScript.svg" alt="js"> <img src="icons/React.svg" alt="react"> <img src="icons/REDUX.svg" alt="redux"> <img src="icons/Node.svg" alt="node"><br/>
 <img src="icons/HTML5.svg" alt="html"> <img src="icons/CSS3.svg" alt="css"> <img src="icons/Postgresql.svg" alt="postgresql"> <img src="icons/GIT.svg" alt="git"> <img src="icons/Webpack.svg" alt="webpack">
 
 ### OTHER SKILLS:
