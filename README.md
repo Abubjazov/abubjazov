@@ -17,21 +17,21 @@
 
 ### CERTIFICATES:
 
-> [UDEMY: PYTHON 3](https://www.udemy.com/certificate/UC-5d544e83-3130-42df-9857-1eb0be7f2ded/)<br/>
+> <a href="https://www.udemy.com/certificate/UC-5d544e83-3130-42df-9857-1eb0be7f2ded/" target="_blank">UDEMY: PYTHON 3</a><br/>
 
-> [UDEMY: SQL and POSTGRESQL](https://www.udemy.com/certificate/UC-3fe34770-dab3-4771-ad1d-cb7b75b31871/)<br/>
+> <a href="https://www.udemy.com/certificate/UC-3fe34770-dab3-4771-ad1d-cb7b75b31871/" target="_blank">UDEMY: SQL and POSTGRESQL</a><br/>
 
-> [UDEMY: GIT](https://www.udemy.com/certificate/UC-aa5f9c4d-6dc1-484f-8371-c42fe82c1ace/)<br/>
+> <a href="https://www.udemy.com/certificate/UC-aa5f9c4d-6dc1-484f-8371-c42fe82c1ace/" target="_blank">UDEMY: GIT</a><br/>
 
-> [UDEMY: HTML5 & CSS3](https://www.udemy.com/certificate/UC-38b56ec8-76d7-405f-bed0-a0cfb2029076/)<br/>
+> <a href="https://www.udemy.com/certificate/UC-38b56ec8-76d7-405f-bed0-a0cfb2029076/" target="_blank">UDEMY: HTML5 & CSS3</a><br/>
 
-> [UDEMY: JavaScript ES6](https://www.udemy.com/certificate/UC-6aa811df-274c-46be-9fbb-78652ff50aa9/)<br/>
+> <a href="https://www.udemy.com/certificate/UC-6aa811df-274c-46be-9fbb-78652ff50aa9/" target="_blank">UDEMY: JavaScript ES6</a><br/>
 
-> [UDEMY: JavaScript ES6](https://www.udemy.com/certificate/UC-0612fb88-13f2-484c-92d5-007facf04595/)<br/>
+> <a href="https://www.udemy.com/certificate/UC-0612fb88-13f2-484c-92d5-007facf04595/" target="_blank">UDEMY: JavaScript ES6</a><br/>
 
-> [UDEMY: React JS](https://www.udemy.com/certificate/UC-4e5d6ac3-d3f2-45af-9330-0c2415fccd7c/)<br/>
+> <a href="https://www.udemy.com/certificate/UC-4e5d6ac3-d3f2-45af-9330-0c2415fccd7c/" target="_blank">UDEMY: React JS</a><br/>
 
-> [UDEMY: React JS](https://www.udemy.com/certificate/UC-f1e26658-a32d-4b99-be0a-c27815115a9d/)<br/>
+> <a href="https://www.udemy.com/certificate/UC-f1e26658-a32d-4b99-be0a-c27815115a9d/" target="_blank">UDEMY: React JS</a><br/>
 
 ---
 
