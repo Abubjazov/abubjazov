@@ -25,9 +25,9 @@
 
 > <a href="https://www.udemy.com/certificate/UC-38b56ec8-76d7-405f-bed0-a0cfb2029076/">UDEMY: HTML5 & CSS3</a><br/>
 
-> <a href="https://www.udemy.com/certificate/UC-6aa811df-274c-46be-9fbb-78652ff50aa9/">UDEMY: JavaScript ES6</a><br/>
+> <a href="https://www.udemy.com/certificate/UC-6aa811df-274c-46be-9fbb-78652ff50aa9/">UDEMY: JavaScript ES6+</a><br/>
 
-> <a href="https://www.udemy.com/certificate/UC-0612fb88-13f2-484c-92d5-007facf04595/">UDEMY: JavaScript ES6</a><br/>
+> <a href="https://www.udemy.com/certificate/UC-0612fb88-13f2-484c-92d5-007facf04595/">UDEMY: JavaScript ES6+</a><br/>
 
 > <a href="https://www.udemy.com/certificate/UC-4e5d6ac3-d3f2-45af-9330-0c2415fccd7c/">UDEMY: React JS</a><br/>
 
