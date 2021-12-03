@@ -11,13 +11,13 @@
 
 <img src="icons/Python.svg" alt="python"> <img src="icons/Gulp.svg" alt="gulp"> <img src="icons/SASS.svg" alt="sass"> <img src="icons/Less.svg" alt="less"> <img src="icons/BOOTSTRAP.svg" alt="bootstrap"> <img src="icons/Figma.svg" alt="figma">
 
-<a href="https://www.codewars.com/users/Abubjazov"><img src="https://www.codewars.com/users/Abubjazov/badges/large" alt="codewars"></a>
+<a target="_blank" href="https://www.codewars.com/users/Abubjazov"><img src="https://www.codewars.com/users/Abubjazov/badges/large" alt="codewars"></a>
 
 ---
 
 ### CERTIFICATES:
 
-> <a href="https://www.udemy.com/certificate/UC-5d544e83-3130-42df-9857-1eb0be7f2ded/" target="_blank">UDEMY: PYTHON 3</a><br/>
+> <a target="_blank" href="https://www.udemy.com/certificate/UC-5d544e83-3130-42df-9857-1eb0be7f2ded/">UDEMY: PYTHON 3</a><br/>
 
 > <a href="https://www.udemy.com/certificate/UC-3fe34770-dab3-4771-ad1d-cb7b75b31871/" target="_blank">UDEMY: SQL and POSTGRESQL</a><br/>
 
