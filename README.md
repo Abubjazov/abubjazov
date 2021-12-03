@@ -11,7 +11,7 @@
 
 <img src="icons/Python.svg" alt="python"> <img src="icons/Gulp.svg" alt="gulp"> <img src="icons/SASS.svg" alt="sass"> <img src="icons/Less.svg" alt="less"> <img src="icons/BOOTSTRAP.svg" alt="bootstrap"> <img src="icons/Figma.svg" alt="figma">
 
-<a target="_blank" href="https://www.codewars.com/users/Abubjazov"><img src="https://www.codewars.com/users/Abubjazov/badges/large" alt="codewars"></a>
+<a target="_blank" rel="noopener" href="https://www.codewars.com/users/Abubjazov"><img src="https://www.codewars.com/users/Abubjazov/badges/large" alt="codewars"></a>
 
 ---
 
