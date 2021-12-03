@@ -31,6 +31,8 @@
 
 > [UDEMY: React JS](https://www.udemy.com/certificate/UC-4e5d6ac3-d3f2-45af-9330-0c2415fccd7c/)<br/>
 
+> [UDEMY: React JS](https://www.udemy.com/certificate/UC-f1e26658-a32d-4b99-be0a-c27815115a9d/)<br/>
+
 ---
 
 ### CONTACTS:
