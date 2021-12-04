@@ -9,7 +9,7 @@
 
 ### OTHER SKILLS:
 
-<img src="icons/Python.svg" alt="python"> <img src="icons/Express.svg" alt="Express.js"> <img src="icons/GraphQL.svg" alt="GraphQL"> <img src="icons/MongoDB.svg" alt="MongoDB"> <img src="icons/MySQL.svg" alt="MySQL"> <img src="icons/Postgresql.svg" alt="postgresql"> <img src="icons/Gulp.svg" alt="gulp"> <img src="icons/SASS.svg" alt="sass"> <img src="icons/Less.svg" alt="less"> <img src="icons/BOOTSTRAP.svg" alt="bootstrap"> <img src="icons/React Bootstrap.svg" alt="React Bootstrap"> <img src="icons/Figma.svg" alt="figma">
+<img src="icons/Python.svg" alt="python"> <img src="icons/Express.svg" alt="Express.js"> <img src="icons/GraphQL.svg" alt="GraphQL"> <img src="icons/MongoDB.svg" alt="MongoDB"> <img src="icons/Firebase.svg" alt="Firebase"> <img src="icons/MySQL.svg" alt="MySQL"> <img src="icons/Postgresql.svg" alt="postgresql"> <img src="icons/Gulp.svg" alt="gulp"> <img src="icons/SASS.svg" alt="sass"> <img src="icons/Less.svg" alt="less"> <img src="icons/BOOTSTRAP.svg" alt="bootstrap"> <img src="icons/React Bootstrap.svg" alt="React Bootstrap"> <img src="icons/Figma.svg" alt="figma">
 
 <a href="https://www.codewars.com/users/Abubjazov"><img src="https://www.codewars.com/users/Abubjazov/badges/large" alt="codewars"></a>
 
