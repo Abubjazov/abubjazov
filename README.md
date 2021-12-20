@@ -33,6 +33,8 @@
 
 > <a href="https://www.udemy.com/certificate/UC-f1e26658-a32d-4b99-be0a-c27815115a9d/">UDEMY: React JS</a><br/>
 
+> <a href="https://www.udemy.com/certificate/UC-95871b87-e70f-4688-8a67-829d87d300a7/">UDEMY: Node JS</a><br/>
+
 ---
 
 ### CONTACTS:
