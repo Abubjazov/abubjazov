@@ -1,6 +1,4 @@
-<img src="icons/RADIK.png" alt="banner">
-
-## Frontend Developer (JS, React)
+<img src="icons/RADIK.jpg" alt="banner">
 
 ### MAIN STACK:
 
