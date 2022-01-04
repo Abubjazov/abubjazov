@@ -2,12 +2,12 @@
 
 ### MAIN STACK:
 
-<img src="icons/JavaScript.svg" alt="js"> <img src="icons/TypeScript.svg" alt="ts"> <img src="icons/React.svg" alt="react"> <img src="icons/REDUX.svg" alt="redux"> <img src="icons/ReduxToolkit.svg" alt="ReduxToolkit"> <img src="icons/Node.svg" alt="node"><br/>
-<img src="icons/HTML5.svg" alt="html"> <img src="icons/CSS3.svg" alt="css"> <img src="icons/GIT.svg" alt="git"> <img src="icons/Webpack.svg" alt="webpack">
+<img src="icons/JavaScript.svg" alt="js"> <img src="icons/TypeScript.svg" alt="ts"> <img src="icons/React.svg" alt="react"> <img src="icons/REDUX.svg" alt="redux"> <img src="icons/ReduxToolkit.svg" alt="ReduxToolkit">
+<img src="icons/Node.svg" alt="node"> <img src="icons/Express.svg" alt="Express.js"> <img src="icons/HTML5.svg" alt="html"> <img src="icons/CSS3.svg" alt="css"> <img src="icons/GIT.svg" alt="git"> <img src="icons/Webpack.svg" alt="webpack">
 
 ### OTHER SKILLS:
 
-<img src="icons/Python.svg" alt="python"> <img src="icons/Express.svg" alt="Express.js"> <img src="icons/GraphQL.svg" alt="GraphQL"> <img src="icons/MongoDB.svg" alt="MongoDB"> <img src="icons/Firebase.svg" alt="Firebase"> <img src="icons/MySQL.svg" alt="MySQL"> <img src="icons/Postgresql.svg" alt="postgresql"> <img src="icons/Gulp.svg" alt="gulp"> <img src="icons/SASS.svg" alt="sass"> <img src="icons/Less.svg" alt="less"> <img src="icons/BOOTSTRAP.svg" alt="bootstrap"> <img src="icons/React Bootstrap.svg" alt="React Bootstrap"> <img src="icons/Figma.svg" alt="figma">
+<img src="icons/Python.svg" alt="python"> <img src="icons/GraphQL.svg" alt="GraphQL"> <img src="icons/MongoDB.svg" alt="MongoDB"> <img src="icons/Firebase.svg" alt="Firebase"> <img src="icons/MySQL.svg" alt="MySQL"> <img src="icons/Postgresql.svg" alt="postgresql"> <img src="icons/Gulp.svg" alt="gulp"> <img src="icons/SASS.svg" alt="sass"> <img src="icons/Less.svg" alt="less"> <img src="icons/BOOTSTRAP.svg" alt="bootstrap"> <img src="icons/React Bootstrap.svg" alt="React Bootstrap"> <img src="icons/Figma.svg" alt="figma">
 
 <a href="https://www.codewars.com/users/Abubjazov"><img src="https://www.codewars.com/users/Abubjazov/badges/large" alt="codewars"></a>
 
@@ -32,6 +32,8 @@
 > <a href="https://www.udemy.com/certificate/UC-f1e26658-a32d-4b99-be0a-c27815115a9d/">UDEMY: React JS</a><br/>
 
 > <a href="https://www.udemy.com/certificate/UC-95871b87-e70f-4688-8a67-829d87d300a7/">UDEMY: Node JS</a><br/>
+
+> <a href="https://www.udemy.com/certificate/UC-ef13799e-5d0c-46a9-9f61-97b56236c26c/">UDEMY: TypeScript</a><br/>
 
 ---
 
