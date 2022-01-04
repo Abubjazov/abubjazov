@@ -33,7 +33,7 @@
 
 > <a target="_blank" rel="noopener noreferrer" href="https://www.udemy.com/certificate/UC-95871b87-e70f-4688-8a67-829d87d300a7/">UDEMY: Node JS</a><br/>
 
-> <a href="https://www.udemy.com/certificate/UC-ef13799e-5d0c-46a9-9f61-97b56236c26c/">UDEMY: TypeScript</a><br/>
+> <a target="_blank" rel="noopener noreferrer" href="https://www.udemy.com/certificate/UC-ef13799e-5d0c-46a9-9f61-97b56236c26c/">UDEMY: TypeScript</a><br/>
 
 ---
 
