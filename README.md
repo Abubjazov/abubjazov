@@ -2,11 +2,11 @@
 
 ### MAIN STACK:
 
-<img src="icons/Figma.svg" alt="figma"> <img src="icons/HTML5.svg" alt="html"> <img src="icons/CSS3.svg" alt="css"> <img src="icons/JavaScript.svg" alt="js"> <img src="icons/TypeScript.svg" alt="ts"> <img src="icons/React.svg" alt="react"> <img src="icons/REDUX.svg" alt="redux"> <img src="icons/ReduxToolkit.svg" alt="ReduxToolkit"> <img src="icons/NEXTJS.svg" alt="Next.js"> <img src="icons/Node.svg" alt="node"> <img src="icons/Express.svg" alt="Express.js"> <img src="icons/MongoDB.svg" alt="MongoDB"> <img src="icons/Postgresql.svg" alt="postgresql"> <img src="icons/Webpack.svg" alt="webpack"> <img src="icons/GIT.svg" alt="git">
+<img src="icons/Figma.svg" alt="figma"> <img src="icons/HTML5.svg" alt="html"> <img src="icons/CSS3.svg" alt="css"> <img src="icons/SASS.svg" alt="sass"> <img src="icons/JavaScript.svg" alt="js"> <img src="icons/TypeScript.svg" alt="ts"> <img src="icons/React.svg" alt="react"> <img src="icons/REDUX.svg" alt="redux"> <img src="icons/ReduxToolkit.svg" alt="ReduxToolkit"> <img src="icons/NEXTJS.svg" alt="Next.js"> <img src="icons/Node.svg" alt="node"> <img src="icons/Express.svg" alt="Express.js"> <img src="icons/MongoDB.svg" alt="MongoDB"> <img src="icons/Postgresql.svg" alt="postgresql"> <img src="icons/Webpack.svg" alt="webpack"> <img src="icons/GIT.svg" alt="git">
 
 ### OTHER SKILLS:
 
-<img src="icons/GraphQL.svg" alt="GraphQL"> <img src="icons/Firebase.svg" alt="Firebase"> <img src="icons/MySQL.svg" alt="MySQL"> <img src="icons/Gulp.svg" alt="gulp"> <img src="icons/SASS.svg" alt="sass"> <img src="icons/Less.svg" alt="less"> <img src="icons/BOOTSTRAP.svg" alt="bootstrap"> <img src="icons/React Bootstrap.svg" alt="React Bootstrap"> <img src="icons/Python.svg" alt="python">
+<img src="icons/GraphQL.svg" alt="GraphQL"> <img src="icons/Firebase.svg" alt="Firebase"> <img src="icons/MySQL.svg" alt="MySQL"> <img src="icons/Gulp.svg" alt="gulp"> <img src="icons/Less.svg" alt="less"> <img src="icons/BOOTSTRAP.svg" alt="bootstrap"> <img src="icons/React Bootstrap.svg" alt="React Bootstrap"> <img src="icons/Python.svg" alt="python">
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/users/Abubjazov"><img src="https://www.codewars.com/users/Abubjazov/badges/large" alt="codewars"></a>
 
