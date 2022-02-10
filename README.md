@@ -8,7 +8,7 @@
 
 <img src="icons/GraphQL.svg" alt="GraphQL"> <img src="icons/Firebase.svg" alt="Firebase"> <img src="icons/MySQL.svg" alt="MySQL"> <img src="icons/Gulp.svg" alt="gulp"> <img src="icons/Less.svg" alt="less"> <img src="icons/BOOTSTRAP.svg" alt="bootstrap"> <img src="icons/React Bootstrap.svg" alt="React Bootstrap"> <img src="icons/Python.svg" alt="python">
 
-<a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/users/Abubjazov"><img src="https://www.codewars.com/users/Abubjazov/badges/large" alt="codewars"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/users/Abubjazov"><img src="https://www.codewars.com/users/Abubjazov/badges/large" alt="codewars profile"></a>
 
 ---
 
@@ -33,6 +33,8 @@
 > <a target="_blank" rel="noopener noreferrer" href="https://www.udemy.com/certificate/UC-95871b87-e70f-4688-8a67-829d87d300a7/">UDEMY: Node JS</a><br/>
 
 > <a target="_blank" rel="noopener noreferrer" href="https://www.udemy.com/certificate/UC-ef13799e-5d0c-46a9-9f61-97b56236c26c/">UDEMY: TypeScript</a><br/>
+
+> <a target="_blank" rel="noopener noreferrer" href="https://www.udemy.com/certificate/UC-9c7f70fa-30b1-45de-bf61-679750353947/">UDEMY: Next JS</a><br/>
 
 ---
 
