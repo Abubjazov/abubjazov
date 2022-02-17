@@ -2,7 +2,7 @@
 
 ### MAIN STACK:
 
-<img src="icons/Figma.svg" alt="figma"> <img src="icons/HTML5.svg" alt="html"> <img src="icons/CSS3.svg" alt="css"> <img src="icons/SASS.svg" alt="sass"> <img src="icons/JavaScript.svg" alt="js"> <img src="icons/TypeScript.svg" alt="ts"> <img src="icons/React.svg" alt="react"> <img src="icons/REDUX.svg" alt="redux"> <img src="icons/ReduxToolkit.svg" alt="ReduxToolkit"> <img src="icons/NEXTJS.svg" alt="Next.js"> <img src="icons/GraphQL.svg" alt="GraphQL"> <img src="icons/Node.svg" alt="node"> <img src="icons/Express.svg" alt="Express.js"> <img src="icons/MongoDB.svg" alt="MongoDB"> <img src="icons/Postgresql.svg" alt="postgresql"> <img src="icons/Webpack.svg" alt="webpack"> <img src="icons/GIT.svg" alt="git">
+<img src="icons/Figma.svg" alt="figma"> <img src="icons/HTML5.svg" alt="html"> <img src="icons/CSS3.svg" alt="css"> <img src="icons/SASS.svg" alt="sass"> <img src="icons/JavaScript.svg" alt="js"> <img src="icons/TypeScript.svg" alt="ts"> <img src="icons/React.svg" alt="react"> <img src="icons/Jest.svg" alt="Jest"> <img src="icons/REDUX.svg" alt="redux"> <img src="icons/ReduxToolkit.svg" alt="ReduxToolkit"> <img src="icons/NEXTJS.svg" alt="Next.js"> <img src="icons/GraphQL.svg" alt="GraphQL"> <img src="icons/Node.svg" alt="node"> <img src="icons/Express.svg" alt="Express.js"> <img src="icons/MongoDB.svg" alt="MongoDB"> <img src="icons/Postgresql.svg" alt="postgresql"> <img src="icons/Webpack.svg" alt="webpack"> <img src="icons/GIT.svg" alt="git">
 
 ### OTHER SKILLS:
 
