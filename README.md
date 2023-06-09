@@ -2,7 +2,7 @@
 
 ### MAIN STACK:
 
-<img src="icons/TypeScript.svg" alt="ts"> <img src="icons/React.svg" alt="react"> <img src="icons/MobX.svg" alt="MobX"> <img src="icons/REDUX.svg" alt="redux"> <img src="icons/Jest.svg" alt="Jest"> <img src="icons/Figma.svg" alt="figma"> <img src="icons/GIT.svg" alt="git">
+<img src="icons/TypeScript.svg" alt="ts"> <img src="icons/React.svg" alt="react"> <img src="icons/MobX.svg" alt="mobx"> <img src="icons/Redux.svg" alt="redux"> <img src="icons/Vitest.svg" alt="vitest"> <img src="icons/Jest.svg" alt="jest"> <img src="icons/Storybook.svg" alt="Storybook"> <img src="icons/Figma.svg" alt="figma"> <img src="icons/Git.svg" alt="git">
 
 ### OTHER SKILLS:
 
