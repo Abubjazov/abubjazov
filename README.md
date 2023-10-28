@@ -1,4 +1,4 @@
-<img src="icons/RADIK.jpg" style="border-radius:8px" alt="banner">
+<img src="icons/RADIK.jpg" alt="banner">
 
 ### MAIN STACK:
 
