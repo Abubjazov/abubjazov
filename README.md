@@ -55,7 +55,7 @@ EMAIL: abubjazov@mail.ru<br>
 
 TELEGRAM:<br>
 
-<img height="200px"  src="icons/telegram_qr.jpg" alt="telegram-QR">
+<a target="_blank" rel="noopener noreferrer" href="https://t.me/abubjazov"><img height="200px"  src="icons/telegram_qr.jpg" alt="telegram-QR"></a>
 
 ---
 
