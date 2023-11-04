@@ -8,21 +8,22 @@
 <img src="icons/Redux.svg" alt="redux">&nbsp; 
 <img src="icons/Vite.svg" alt="vite">&nbsp; 
 <img src="icons/Vitest.svg" alt="vitest">&nbsp; 
-<img src="icons/Storybook.svg" alt="Storybook">&nbsp; 
+<img src="icons/Cypress.svg" alt="cypress">&nbsp; 
+<img src="icons/Storybook.svg" alt="storybook">&nbsp; 
 <img src="icons/Figma.svg" alt="figma">&nbsp; 
 <img src="icons/Git.svg" alt="git">
 
 ### OTHER SKILLS:
 
 <img  src="icons/Jest.svg" alt="jest">&nbsp; 
-<img  src="icons/NextJS.svg" alt="Next.js">&nbsp; 
-<img  src="icons/GraphQL.svg" alt="GraphQL">&nbsp; 
+<img  src="icons/NextJS.svg" alt="next.js">&nbsp; 
+<img  src="icons/GraphQL.svg" alt="graphql">&nbsp; 
 <img  src="icons/Node.svg" alt="node">&nbsp; 
-<img  src="icons/Express.svg" alt="Express.js">&nbsp; 
-<img  src="icons/MongoDB.svg" alt="MongoDB">&nbsp; 
+<img  src="icons/Express.svg" alt="express.js">&nbsp; 
+<img  src="icons/MongoDB.svg" alt="mongodb">&nbsp; 
 <img  src="icons/Postgresql.svg" alt="postgresql">&nbsp; 
 <img  src="icons/Webpack.svg" alt="webpack">&nbsp; 
-<img  src="icons/Firebase.svg" alt="Firebase">&nbsp; 
+<img  src="icons/Firebase.svg" alt="firebase">&nbsp; 
 <img  src="icons/Python.svg" alt="python">
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/users/Abubjazov"><img src="https://www.codewars.com/users/Abubjazov/badges/large" alt="codewars profile"></a>
