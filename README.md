@@ -54,10 +54,6 @@
 
 EMAIL: abubjazov@mail.ru<br>
 
-TELEGRAM:<br>
-
-<a target="_blank" rel="noopener noreferrer" href="https://t.me/abubjazov"><img height="200px"  src="icons/telegram_qr.jpg" alt="telegram-QR"></a>
-
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abubjazov&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
