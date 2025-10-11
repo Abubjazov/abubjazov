@@ -50,7 +50,7 @@
 
 ### CONTACTS:
 
-EMAIL: abubjazov@mail.ru<br>
+EMAIL: frontent.developer.1991@proton.me<br>
 
 ---
 
