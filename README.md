@@ -37,7 +37,9 @@
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.udemy.com/certificate/UC-4e5d6ac3-d3f2-45af-9330-0c2415fccd7c/">UDEMY: React JS</a>&nbsp;&nbsp;&nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://www.udemy.com/certificate/UC-f1e26658-a32d-4b99-be0a-c27815115a9d/">UDEMY: React JS</a>&nbsp;&nbsp;&nbsp;
-<a target="_blank" rel="noopener noreferrer" href="https://www.udemy.com/certificate/UC-ef13799e-5d0c-46a9-9f61-97b56236c26c/">UDEMY: TypeScript</a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://www.udemy.com/certificate/UC-ef13799e-5d0c-46a9-9f61-97b56236c26c/">UDEMY: TypeScript</a>&nbsp;&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://www.udemy.com/certificate/UC-a492afce-ec48-45a0-9f59-50a53a249343/">UDEMY: TypeScript</a><br>
+
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.udemy.com/certificate/UC-95871b87-e70f-4688-8a67-829d87d300a7/">UDEMY: Node JS</a>&nbsp;&nbsp;&nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://www.udemy.com/certificate/UC-9c7f70fa-30b1-45de-bf61-679750353947/">UDEMY: Next JS</a><br>
