@@ -11,15 +11,7 @@
 <img src="icons/Vitest.svg" alt="vitest">&nbsp;
 <img src="icons/Storybook.svg" alt="storybook">&nbsp;
 <img src="icons/Figma.svg" alt="figma">&nbsp;
-<img src="icons/Git.svg" alt="git">
-
-### OTHER SKILLS:
-
-<img  src="icons/Jest.svg" alt="jest">&nbsp;
-<img src="icons/Cypress.svg" alt="cypress">&nbsp;
-<img  src="icons/NextJS.svg" alt="next.js">&nbsp;
-<img  src="icons/Node.svg" alt="node">&nbsp;
-<img  src="icons/Express.svg" alt="express.js">&nbsp;
+<img src="icons/Git.svg" alt="git">&nbsp;
 <img  src="icons/MongoDB.svg" alt="mongodb">&nbsp;
 <img  src="icons/Postgresql.svg" alt="postgresql">&nbsp;
 <img  src="icons/Webpack.svg" alt="webpack">&nbsp;
