@@ -9,11 +9,11 @@
 <img  src="icons/GraphQL.svg" alt="graphql">&nbsp;
 <img src="icons/React.svg" alt="react">&nbsp;
 <img src="icons/Effector.svg" alt="effector">&nbsp;
-<img src="icons/MobX.svg" alt="mobx">&nbsp;
-<img src="icons/Redux.svg" alt="redux">&nbsp;
 
 ### OTHER:
 
+<img src="icons/MobX.svg" alt="mobx">&nbsp;
+<img src="icons/Redux.svg" alt="redux">&nbsp;
 <img src="icons/Vite.svg" alt="vite">&nbsp;
 <img src="icons/Vitest.svg" alt="vitest">&nbsp;
 <img src="icons/Storybook.svg" alt="storybook">&nbsp;
