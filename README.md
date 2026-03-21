@@ -2,8 +2,10 @@
 
 ### MAIN STACK:
 
+<img src="icons/Rust.svg" alt="rust">&nbsp;
 <img src="icons/TypeScript.svg" alt="ts">&nbsp;
 <img src="icons/React.svg" alt="react">&nbsp;
+<img src="icons/Effector.svg" alt="effector">&nbsp;
 <img src="icons/MobX.svg" alt="mobx">&nbsp;
 <img src="icons/Redux.svg" alt="redux">&nbsp;
 <img  src="icons/GraphQL.svg" alt="graphql">&nbsp;
