@@ -12,7 +12,7 @@
 <img src="icons/MobX.svg" alt="mobx">&nbsp;
 <img src="icons/Redux.svg" alt="redux">&nbsp;
 
-###
+### OTHER:
 
 <img src="icons/Vite.svg" alt="vite">&nbsp;
 <img src="icons/Vitest.svg" alt="vitest">&nbsp;
