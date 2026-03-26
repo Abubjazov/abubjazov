@@ -1,4 +1,4 @@
-<img src="icons/Web.jpeg" alt="banner">
+<img src="icons/Web.png" alt="banner">
 
 ### MAIN STACK:
 
