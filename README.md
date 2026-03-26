@@ -2,13 +2,12 @@
 
 ### MAIN STACK:
 
-<img src="icons/Rust.svg" alt="rust">&nbsp;
 <img src="icons/TypeScript.svg" alt="ts">&nbsp;
 
 ### OTHER:
 
-<img  src="icons/MongoDB.svg" alt="mongodb">&nbsp;
 <img  src="icons/Postgresql.svg" alt="postgresql">&nbsp;
+<img  src="icons/MongoDB.svg" alt="mongodb">&nbsp;
 <img  src="icons/GraphQL.svg" alt="graphql">&nbsp;
 <img src="icons/React.svg" alt="react">&nbsp;
 <img src="icons/Effector.svg" alt="effector">&nbsp;
