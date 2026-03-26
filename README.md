@@ -2,6 +2,7 @@
 
 ### MAIN STACK:
 
+<img src="icons/NODE.svg" alt="ts">&nbsp;
 <img src="icons/TypeScript.svg" alt="ts">&nbsp;
 
 ### OTHER:
