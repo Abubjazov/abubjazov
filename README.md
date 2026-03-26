@@ -2,8 +2,9 @@
 
 ### MAIN STACK:
 
-<img src="icons/NODE.svg" alt="ts">&nbsp;
+<img src="icons/NODE.svg" alt="node.js">&nbsp;
 <img src="icons/TypeScript.svg" alt="ts">&nbsp;
+<img src="icons/NESTJS.svg" alt="nestJS">&nbsp;
 
 ### OTHER:
 
