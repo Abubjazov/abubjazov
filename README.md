@@ -16,7 +16,7 @@
 <img  src="icons/Postgresql.svg" alt="postgresql">&nbsp;
 <img  src="icons/MongoDB.svg" alt="mongodb">&nbsp;
 <img  src="icons/GraphQL.svg" alt="graphql">&nbsp;
-<img  src="icons/Firebase.svg" alt="firebase">&nbsp;&nbsp;&nbsp;
+<img  src="icons/Firebase.svg" alt="firebase">&nbsp;
 <img src="icons/MobX.svg" alt="mobx">&nbsp;
 <img src="icons/Redux.svg" alt="redux">&nbsp;
 <img src="icons/Vitest.svg" alt="vitest">&nbsp;
