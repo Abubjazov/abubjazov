@@ -21,8 +21,6 @@
 <img src="icons/Redux.svg" alt="redux">&nbsp;
 <img src="icons/Vitest.svg" alt="vitest">&nbsp;
 <img  src="icons/Webpack.svg" alt="webpack">&nbsp;
-<img src="icons/Storybook.svg" alt="storybook">&nbsp;
-<img src="icons/Figma.svg" alt="figma">&nbsp;
 
 ---
 
