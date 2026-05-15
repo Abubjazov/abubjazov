@@ -8,6 +8,7 @@
 <img src="icons/React.svg" alt="react">&nbsp;
 <img src="icons/Effector.svg" alt="effector">&nbsp;
 <img  src="icons/GraphQL.svg" alt="graphql">&nbsp;
+<img  src="icons/RestApi.svg" alt="graphql">&nbsp;
 <img src="icons/Vite.svg" alt="vite">&nbsp;
 <img src="icons/Storybook.svg" alt="storybook">&nbsp;
 <img src="icons/Figma.svg" alt="figma">&nbsp;&nbsp;&nbsp;
