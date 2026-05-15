@@ -2,9 +2,7 @@
 
 ### MAIN STACK:
 
-<img src="icons/NODE.svg" alt="node.js">&nbsp;
 <img src="icons/TypeScript.svg" alt="ts">&nbsp;
-<img src="icons/React.svg" alt="react">&nbsp;
 <img src="icons/React.svg" alt="react">&nbsp;
 <img src="icons/Effector.svg" alt="effector">&nbsp;
 <img  src="icons/GraphQL.svg" alt="graphql">&nbsp;
@@ -15,6 +13,7 @@
 
 ### OTHER:
 
+<img src="icons/NODE.svg" alt="node.js">&nbsp;
 <img  src="icons/Postgresql.svg" alt="postgresql">&nbsp;
 <img  src="icons/MongoDB.svg" alt="mongodb">&nbsp;
 <img  src="icons/Firebase.svg" alt="firebase">&nbsp;
