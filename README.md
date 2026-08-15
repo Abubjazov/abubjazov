@@ -1,4 +1,4 @@
-<img src="icons/red-ruby.avif" alt="banner" style="width: 100%; height: 313px; object-fit: contain;">
+<div style="width: 100%; height: 313px; background-image: url('icons/red-ruby.avif'); background-size: cover; background-position: center;"></div>
 
 ### MAIN STACK:
 
