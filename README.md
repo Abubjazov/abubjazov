@@ -5,17 +5,17 @@
 <img src="icons/ruby.svg" alt="ruby">&nbsp;
 <img src="icons/typescript.svg" alt="ts">&nbsp;
 <img src="icons/react.svg" alt="react">&nbsp;
-<img  src="icons/graphql.svg" alt="graphql">&nbsp;
-<img  src="icons/postgresql.svg" alt="postgresql">&nbsp;
+<img src="icons/graphql.svg" alt="graphql">&nbsp;
+<img src="icons/postgresql.svg" alt="postgresql">&nbsp;
 
 ### OTHER:
 
-<img  src="icons/mongodb.svg" alt="mongodb">&nbsp;
-<img  src="icons/firebase.svg" alt="firebase">&nbsp;
+<img src="icons/mongodb.svg" alt="mongodb">&nbsp;
+<img src="icons/firebase.svg" alt="firebase">&nbsp;
 <img src="icons/effector.svg" alt="effector">&nbsp;
 <img src="icons/mobx.svg" alt="mobx">&nbsp;
 <img src="icons/redux.svg" alt="redux">&nbsp;
-<img  src="icons/webpack.svg" alt="webpack">&nbsp;
+<img src="icons/webpack.svg" alt="webpack">&nbsp;
 <img src="icons/vite.svg" alt="vite">&nbsp;
 <img src="icons/vitest.svg" alt="vitest">&nbsp;
 <img src="icons/storybook.svg" alt="storybook">&nbsp;
