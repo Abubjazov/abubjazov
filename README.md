@@ -3,7 +3,7 @@
 ### MAIN STACK:
 
 <img src="icons/ruby.svg" alt="ruby">&nbsp;
-<img src="icons/TypeScript.svg" alt="ts">&nbsp;
+<img src="icons/typescript.svg" alt="ts">&nbsp;
 <img src="icons/React.svg" alt="react">&nbsp;
 <img  src="icons/GraphQL.svg" alt="graphql">&nbsp;
 <img  src="icons/RestApi.svg" alt="graphql">&nbsp;
