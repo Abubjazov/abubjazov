@@ -1,4 +1,4 @@
-<img src="icons/red-ruby.avif" alt="banner" style="width: 100%;">
+<img src="icons/Web.png" alt="banner" style="width: 100%;">
 
 ### MAIN STACK:
 
