@@ -1,15 +1,15 @@
-<img src="icons/red-ruby.png" alt="banner" style="width: 100%;">
+<img src="icons/lamp.png" alt="banner" style="width: 100%;">
 
 ### MAIN STACK:
 
-<img src="icons/ruby.svg" alt="ruby">&nbsp;
+<img src="icons/.svg" alt="python">&nbsp;
 <img src="icons/typescript.svg" alt="ts">&nbsp;
-<img src="icons/react.svg" alt="react">&nbsp;
-<img src="icons/graphql.svg" alt="graphql">&nbsp;
 <img src="icons/postgresql.svg" alt="postgresql">&nbsp;
 
 ### OTHER:
 
+<img src="icons/react.svg" alt="react">&nbsp;
+<img src="icons/graphql.svg" alt="graphql">&nbsp;
 <img src="icons/mongodb.svg" alt="mongodb">&nbsp;
 <img src="icons/firebase.svg" alt="firebase">&nbsp;
 <img src="icons/effector.svg" alt="effector">&nbsp;
