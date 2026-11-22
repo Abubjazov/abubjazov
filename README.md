@@ -2,7 +2,7 @@
 
 ### MAIN STACK:
 
-<img src="icons/.svg" alt="python">&nbsp;
+<img src="icons/python.svg" alt="python">&nbsp;
 <img src="icons/typescript.svg" alt="ts">&nbsp;
 
 ---
